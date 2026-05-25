@@ -9,8 +9,62 @@
     <title>Edgar&#039;s Personal Wiki</title>
     <link>https://edgarcutar.github.io/personal-wiki-public/</link>
     <guid>https://edgarcutar.github.io/personal-wiki-public/</guid>
-    <description><![CDATA[ Edgar’s Personal Wiki No pages are public yet. Add visibility: public to selected wiki/ pages, then rerun the public export. ]]></description>
-    <pubDate>Mon, 25 May 2026 01:01:05 GMT</pubDate>
+    <description><![CDATA[ Edgar’s Personal Wiki Published pages: All of Statistics All of Statistics Reading Anathem Arbre History Timeline Metis Austen McDonald Azad (Game and Empire) Barbara Liskov Bell Labs Research Culture Better with Data Big-Tech Promotion Culture Bjarne Stroustrup Brendan Burns C++ Computer-Science Ed... ]]></description>
+    <pubDate>Mon, 25 May 2026 01:09:17 GMT</pubDate>
+  </item><item>
+    <title>bell-labs-research-culture</title>
+    <link>https://edgarcutar.github.io/personal-wiki-public/concepts/bell-labs-research-culture</link>
+    <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/bell-labs-research-culture</guid>
+    <description><![CDATA[ Bell Labs Research Culture Bell Labs research culture, in Bjarne Stroustrup’s Peterman Pod episode, is a model of practical engineering research built around talent density, autonomy, and concise accountability. ]]></description>
+    <pubDate>Sun, 24 May 2026 03:00:00 GMT</pubDate>
+  </item><item>
+    <title>c-plus-plus</title>
+    <link>https://edgarcutar.github.io/personal-wiki-public/concepts/c-plus-plus</link>
+    <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/c-plus-plus</guid>
+    <description><![CDATA[ C++ C++ is a programming language created by Bjarne Stroustrup. ]]></description>
+    <pubDate>Sun, 24 May 2026 03:00:00 GMT</pubDate>
+  </item><item>
+    <title>computer-science-education</title>
+    <link>https://edgarcutar.github.io/personal-wiki-public/concepts/computer-science-education</link>
+    <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/computer-science-education</guid>
+    <description><![CDATA[ Computer-Science Education Computer-science education, in David J. ]]></description>
+    <pubDate>Sun, 24 May 2026 03:00:00 GMT</pubDate>
+  </item><item>
+    <title>engineering-career-growth</title>
+    <link>https://edgarcutar.github.io/personal-wiki-public/concepts/engineering-career-growth</link>
+    <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/engineering-career-growth</guid>
+    <description><![CDATA[ Engineering Career Growth Engineering career growth, in the currently ingested Peterman Pod sources, is less about doing more of the same work and more about matching behavior to the next level’s expectations. ]]></description>
+    <pubDate>Sun, 24 May 2026 03:00:00 GMT</pubDate>
+  </item><item>
+    <title>programming-language-design</title>
+    <link>https://edgarcutar.github.io/personal-wiki-public/concepts/programming-language-design</link>
+    <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/programming-language-design</guid>
+    <description><![CDATA[ Programming Language Design Programming language design, in Bjarne Stroustrup’s Peterman Pod episode, is problem-first engineering under constraints rather than an unconstrained search for elegance. ]]></description>
+    <pubDate>Sun, 24 May 2026 03:00:00 GMT</pubDate>
+  </item><item>
+    <title>bjarne-stroustrup</title>
+    <link>https://edgarcutar.github.io/personal-wiki-public/people/bjarne-stroustrup</link>
+    <guid>https://edgarcutar.github.io/personal-wiki-public/people/bjarne-stroustrup</guid>
+    <description><![CDATA[ Bjarne Stroustrup Bjarne Stroustrup is the creator of C++ and a former Bell Labs researcher. ]]></description>
+    <pubDate>Sun, 24 May 2026 03:00:00 GMT</pubDate>
+  </item><item>
+    <title>ryan-peterman</title>
+    <link>https://edgarcutar.github.io/personal-wiki-public/people/ryan-peterman</link>
+    <guid>https://edgarcutar.github.io/personal-wiki-public/people/ryan-peterman</guid>
+    <description><![CDATA[ Ryan Peterman Ryan Peterman is the host of The Peterman Pod and author of The Developing Dev. ]]></description>
+    <pubDate>Sun, 24 May 2026 03:00:00 GMT</pubDate>
+  </item><item>
+    <title>peterman-pod-bjarne-stroustrup-cpp</title>
+    <link>https://edgarcutar.github.io/personal-wiki-public/projects/peterman-pod-bjarne-stroustrup-cpp</link>
+    <guid>https://edgarcutar.github.io/personal-wiki-public/projects/peterman-pod-bjarne-stroustrup-cpp</guid>
+    <description><![CDATA[ Peterman Pod: Bjarne Stroustrup on C++ and Bell Labs This May 18, 2026 episode of The Peterman Pod features Bjarne Stroustrup, creator of C++ and former Bell Labs researcher. ]]></description>
+    <pubDate>Sun, 24 May 2026 03:00:00 GMT</pubDate>
+  </item><item>
+    <title>the-peterman-pod</title>
+    <link>https://edgarcutar.github.io/personal-wiki-public/sources/the-peterman-pod</link>
+    <guid>https://edgarcutar.github.io/personal-wiki-public/sources/the-peterman-pod</guid>
+    <description><![CDATA[ The Peterman Pod The Peterman Pod is a podcast hosted by Ryan Peterman. ]]></description>
+    <pubDate>Sun, 24 May 2026 03:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
