@@ -1,6 +1,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/athena-ares-metis</loc>
-    <lastmod>2026-04-29T03:00:00.000Z</lastmod>
+    <lastmod>2026-05-26T03:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/azad</loc>
     <lastmod>2026-04-29T03:00:00.000Z</lastmod>
@@ -33,7 +33,7 @@
     <lastmod>2026-04-30T03:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/designing-data-intensive-applications</loc>
-    <lastmod>2026-05-18T03:00:00.000Z</lastmod>
+    <lastmod>2026-05-24T03:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/developer-tools</loc>
     <lastmod>2026-05-18T03:00:00.000Z</lastmod>
@@ -44,6 +44,9 @@
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/engineering-career-growth</loc>
     <lastmod>2026-05-24T03:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/jack-shaftoes-paris-hallucination</loc>
+    <lastmod>2026-05-26T03:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/kubernetes</loc>
     <lastmod>2026-05-18T03:00:00.000Z</lastmod>
   </url><url>
@@ -51,13 +54,13 @@
     <lastmod>2026-05-18T03:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/logic-mill</loc>
-    <lastmod>2026-04-29T03:00:00.000Z</lastmod>
+    <lastmod>2026-05-26T03:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/management-seat-time</loc>
     <lastmod>2026-04-30T03:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/newton-leibniz-priority-dispute</loc>
-    <lastmod>2026-04-29T03:00:00.000Z</lastmod>
+    <lastmod>2026-05-26T03:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/polycosmic-theory</loc>
     <lastmod>2026-04-29T03:00:00.000Z</lastmod>
@@ -74,6 +77,9 @@
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/programming-language-design</loc>
     <lastmod>2026-05-24T03:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/quicksilver-commerce-and-money</loc>
+    <lastmod>2026-05-26T03:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/senior-engineer-hiring</loc>
     <lastmod>2026-05-18T03:00:00.000Z</lastmod>
   </url><url>
@@ -83,11 +89,14 @@
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/the-culture</loc>
     <lastmod>2026-04-29T03:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/vagabondage-in-quicksilver</loc>
+    <lastmod>2026-05-26T03:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/viewstamped-replication</loc>
     <lastmod>2026-04-30T03:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/</loc>
-    <lastmod>2026-05-25T01:14:06.372Z</lastmod>
+    <lastmod>2026-05-26T00:56:55.997Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/people/austen-mcdonald</loc>
     <lastmod>2026-05-18T03:00:00.000Z</lastmod>
@@ -102,13 +111,16 @@
     <lastmod>2026-05-18T03:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/people/daniel-waterhouse</loc>
-    <lastmod>2026-04-29T03:00:00.000Z</lastmod>
+    <lastmod>2026-05-26T03:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/people/david-j-malan</loc>
     <lastmod>2026-05-18T03:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://edgarcutar.github.io/personal-wiki-public/people/eliza</loc>
+    <lastmod>2026-05-26T03:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/people/enoch-root</loc>
-    <lastmod>2026-04-29T03:00:00.000Z</lastmod>
+    <lastmod>2026-05-26T03:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/people/erika-pullum-swartz</loc>
     <lastmod>2026-04-30T03:00:00.000Z</lastmod>
@@ -122,8 +134,14 @@
     <loc>https://edgarcutar.github.io/personal-wiki-public/people/goto-dengo</loc>
     <lastmod>2026-04-29T03:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://edgarcutar.github.io/personal-wiki-public/people/gottfried-wilhelm-leibniz</loc>
+    <lastmod>2026-05-26T03:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/people/iain-m-banks</loc>
     <lastmod>2026-04-29T03:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://edgarcutar.github.io/personal-wiki-public/people/jack-shaftoe</loc>
+    <lastmod>2026-05-26T03:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/people/james-everingham</loc>
     <lastmod>2026-05-04T03:00:00.000Z</lastmod>
@@ -147,7 +165,7 @@
     <lastmod>2026-04-30T03:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/people/neal-stephenson</loc>
-    <lastmod>2026-04-29T03:00:00.000Z</lastmod>
+    <lastmod>2026-05-26T03:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/people/ryan-peterman</loc>
     <lastmod>2026-05-24T03:00:00.000Z</lastmod>
@@ -207,7 +225,10 @@
     <lastmod>2026-05-18T03:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/projects/quicksilver</loc>
-    <lastmod>2026-05-05T03:00:00.000Z</lastmod>
+    <lastmod>2026-05-26T03:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://edgarcutar.github.io/personal-wiki-public/projects/technical-book-reading</loc>
+    <lastmod>2026-05-25T03:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/projects/the-player-of-games</loc>
     <lastmod>2026-04-29T03:00:00.000Z</lastmod>
@@ -234,5 +255,5 @@
     <lastmod>2026-04-29T03:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/timelines/quicksilver-plot</loc>
-    <lastmod>2026-05-04T03:00:00.000Z</lastmod>
+    <lastmod>2026-05-26T03:00:00.000Z</lastmod>
   </url></urlset>
