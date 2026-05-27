@@ -10,7 +10,13 @@
     <link>https://edgarcutar.github.io/personal-wiki-public/</link>
     <guid>https://edgarcutar.github.io/personal-wiki-public/</guid>
     <description><![CDATA[ Edgar’s Personal Wiki Public notebook This is the public edge of a private working wiki: source-backed notes about software, systems, books, institutions, and the moments where fiction explains reality better than reality explains itself. ]]></description>
-    <pubDate>Wed, 27 May 2026 00:24:07 GMT</pubDate>
+    <pubDate>Wed, 27 May 2026 00:42:33 GMT</pubDate>
+  </item><item>
+    <title>ai-era-engineering-apprenticeship</title>
+    <link>https://edgarcutar.github.io/personal-wiki-public/concepts/ai-era-engineering-apprenticeship</link>
+    <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/ai-era-engineering-apprenticeship</guid>
+    <description><![CDATA[ AI-Era Engineering Apprenticeship AI-era engineering apprenticeship is the user’s emerging question about how people develop judgment when AI agents absorb more of the small execution work that previously trained juniors and mid-level engineers. ]]></description>
+    <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
   </item><item>
     <title>athena-ares-metis</title>
     <link>https://edgarcutar.github.io/personal-wiki-public/concepts/athena-ares-metis</link>
@@ -54,16 +60,10 @@
     <description><![CDATA[ Quicksilver, Commerce, and Money In Quicksilver, quicksilver is both a material substance and a governing metaphor. ]]></description>
     <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
   </item><item>
-    <title>stack-ranking-and-team-incentives</title>
-    <link>https://edgarcutar.github.io/personal-wiki-public/concepts/stack-ranking-and-team-incentives</link>
-    <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/stack-ranking-and-team-incentives</guid>
-    <description><![CDATA[ Stack Ranking and Team Incentives Stack ranking is the performance-management practice of ranking people relative to one another, often with special consequences for the bottom of the distribution. ]]></description>
-    <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>vagabondage-in-quicksilver</title>
-    <link>https://edgarcutar.github.io/personal-wiki-public/concepts/vagabondage-in-quicksilver</link>
-    <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/vagabondage-in-quicksilver</guid>
-    <description><![CDATA[ Vagabondage in Quicksilver In Quicksilver, vagabondage is not only poverty or criminality. ]]></description>
+    <title>separable-single-threaded-ownership</title>
+    <link>https://edgarcutar.github.io/personal-wiki-public/concepts/separable-single-threaded-ownership</link>
+    <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/separable-single-threaded-ownership</guid>
+    <description><![CDATA[ Separable Single-Threaded Ownership Separable single-threaded ownership is the Amazon organizational model in Working Backwards where one dedicated leader owns one major initiative and leads a team that is as autonomous as the problem permits. ]]></description>
     <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
   </item>
     </channel>

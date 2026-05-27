@@ -1,4 +1,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
+    <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/ai-era-engineering-apprenticeship</loc>
+    <lastmod>2026-05-26T00:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/athena-ares-metis</loc>
     <lastmod>2026-05-26T00:00:00.000Z</lastmod>
   </url><url>
@@ -83,6 +86,9 @@
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/senior-engineer-hiring</loc>
     <lastmod>2026-05-18T00:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/separable-single-threaded-ownership</loc>
+    <lastmod>2026-05-26T00:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/stack-ranking-and-team-incentives</loc>
     <lastmod>2026-05-26T00:00:00.000Z</lastmod>
   </url><url>
@@ -99,13 +105,16 @@
     <lastmod>2026-04-30T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/</loc>
-    <lastmod>2026-05-27T00:24:07.084Z</lastmod>
+    <lastmod>2026-05-27T00:42:33.682Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/people/austen-mcdonald</loc>
     <lastmod>2026-05-18T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/people/barbara-liskov</loc>
     <lastmod>2026-04-30T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://edgarcutar.github.io/personal-wiki-public/people/bill-carr</loc>
+    <lastmod>2026-05-26T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/people/bjarne-stroustrup</loc>
     <lastmod>2026-05-24T00:00:00.000Z</lastmod>
@@ -114,6 +123,9 @@
     <lastmod>2026-05-18T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/people/bryan-cantrill</loc>
+    <lastmod>2026-05-26T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://edgarcutar.github.io/personal-wiki-public/people/colin-bryar</loc>
     <lastmod>2026-05-26T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/people/daniel-waterhouse</loc>
@@ -253,6 +265,9 @@
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/sources/the-pragmatic-engineer</loc>
     <lastmod>2026-05-18T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://edgarcutar.github.io/personal-wiki-public/sources/working-backwards</loc>
+    <lastmod>2026-05-26T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/timelines/arbre-history</loc>
     <lastmod>2026-04-29T00:00:00.000Z</lastmod>
