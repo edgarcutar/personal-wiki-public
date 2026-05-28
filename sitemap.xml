@@ -1,6 +1,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/ai-era-engineering-apprenticeship</loc>
-    <lastmod>2026-05-26T00:00:00.000Z</lastmod>
+    <lastmod>2026-05-27T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/athena-ares-metis</loc>
     <lastmod>2026-05-26T00:00:00.000Z</lastmod>
@@ -12,7 +12,7 @@
     <lastmod>2026-05-24T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/big-tech-promotion-culture</loc>
-    <lastmod>2026-05-26T00:00:00.000Z</lastmod>
+    <lastmod>2026-05-27T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/c-plus-plus</loc>
     <lastmod>2026-05-24T00:00:00.000Z</lastmod>
@@ -30,7 +30,7 @@
     <lastmod>2026-04-29T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/database-systems</loc>
-    <lastmod>2026-05-18T00:00:00.000Z</lastmod>
+    <lastmod>2026-05-27T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/dbos</loc>
     <lastmod>2026-04-30T00:00:00.000Z</lastmod>
@@ -39,13 +39,13 @@
     <lastmod>2026-05-24T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/developer-tools</loc>
-    <lastmod>2026-05-18T00:00:00.000Z</lastmod>
+    <lastmod>2026-05-27T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/distributed-systems</loc>
-    <lastmod>2026-05-18T00:00:00.000Z</lastmod>
+    <lastmod>2026-05-27T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/engineering-career-growth</loc>
-    <lastmod>2026-05-26T00:00:00.000Z</lastmod>
+    <lastmod>2026-05-27T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/jack-shaftoes-paris-hallucination</loc>
     <lastmod>2026-05-26T00:00:00.000Z</lastmod>
@@ -77,6 +77,9 @@
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/probability-foundations</loc>
     <lastmod>2026-05-07T00:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/problem-oriented-engineering-teams</loc>
+    <lastmod>2026-05-27T00:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/programming-language-design</loc>
     <lastmod>2026-05-24T00:00:00.000Z</lastmod>
   </url><url>
@@ -105,7 +108,7 @@
     <lastmod>2026-04-30T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/</loc>
-    <lastmod>2026-05-27T00:42:33.682Z</lastmod>
+    <lastmod>2026-05-28T01:22:06.887Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/people/austen-mcdonald</loc>
     <lastmod>2026-05-18T00:00:00.000Z</lastmod>
@@ -161,6 +164,9 @@
     <loc>https://edgarcutar.github.io/personal-wiki-public/people/jack-shaftoe</loc>
     <lastmod>2026-05-26T00:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://edgarcutar.github.io/personal-wiki-public/people/james-cowling</loc>
+    <lastmod>2026-05-27T00:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/people/james-everingham</loc>
     <lastmod>2026-05-04T00:00:00.000Z</lastmod>
   </url><url>
@@ -186,7 +192,7 @@
     <lastmod>2026-05-26T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/people/ryan-peterman</loc>
-    <lastmod>2026-05-26T00:00:00.000Z</lastmod>
+    <lastmod>2026-05-27T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/projects/all-of-statistics-reading</loc>
     <lastmod>2026-05-07T00:00:00.000Z</lastmod>
@@ -227,6 +233,9 @@
     <loc>https://edgarcutar.github.io/personal-wiki-public/projects/peterman-pod-david-malan-cs50</loc>
     <lastmod>2026-05-18T00:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://edgarcutar.github.io/personal-wiki-public/projects/peterman-pod-james-cowling-dropbox-systems</loc>
+    <lastmod>2026-05-27T00:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/projects/peterman-pod-james-everingham-instagram-career-regrets</loc>
     <lastmod>2026-05-04T00:00:00.000Z</lastmod>
   </url><url>
@@ -261,7 +270,7 @@
     <lastmod>2026-04-30T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/sources/the-peterman-pod</loc>
-    <lastmod>2026-05-26T00:00:00.000Z</lastmod>
+    <lastmod>2026-05-27T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/sources/the-pragmatic-engineer</loc>
     <lastmod>2026-05-18T00:00:00.000Z</lastmod>
