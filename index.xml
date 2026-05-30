@@ -10,13 +10,49 @@
     <link>https://edgarcutar.github.io/personal-wiki-public/</link>
     <guid>https://edgarcutar.github.io/personal-wiki-public/</guid>
     <description><![CDATA[ Edgar’s Personal Wiki Public notebook This is the public edge of a private working wiki: source-backed notes about software, systems, books, institutions, and the moments where fiction explains reality better than reality explains itself. ]]></description>
-    <pubDate>Thu, 28 May 2026 01:22:06 GMT</pubDate>
+    <pubDate>Sat, 30 May 2026 20:56:06 GMT</pubDate>
   </item><item>
     <title>ai-era-engineering-apprenticeship</title>
     <link>https://edgarcutar.github.io/personal-wiki-public/concepts/ai-era-engineering-apprenticeship</link>
     <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/ai-era-engineering-apprenticeship</guid>
     <description><![CDATA[ AI-Era Engineering Apprenticeship AI-era engineering apprenticeship is the user’s emerging question about how people develop judgment when AI agents absorb more of the small execution work that previously trained juniors and mid-level engineers. ]]></description>
-    <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
+    <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>campfire-hiring</title>
+    <link>https://edgarcutar.github.io/personal-wiki-public/concepts/campfire-hiring</link>
+    <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/campfire-hiring</guid>
+    <description><![CDATA[ Campfire Hiring Campfire hiring is Steve Yegge’s name for replacing short technical interview loops with short paid periods of real work with the team. ]]></description>
+    <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>engineering-career-growth</title>
+    <link>https://edgarcutar.github.io/personal-wiki-public/concepts/engineering-career-growth</link>
+    <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/engineering-career-growth</guid>
+    <description><![CDATA[ Engineering Career Growth Engineering career growth, in the currently ingested Peterman Pod sources, is less about doing more of the same work and more about matching behavior to the next level’s expectations. ]]></description>
+    <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>senior-engineer-hiring</title>
+    <link>https://edgarcutar.github.io/personal-wiki-public/concepts/senior-engineer-hiring</link>
+    <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/senior-engineer-hiring</guid>
+    <description><![CDATA[ Senior-Engineer Hiring Senior-engineer hiring, in Austen McDonald’s Peterman Pod episode, is a leveling exercise based on evidence of scope, influence, ambiguity handling, communication, and organizational effect. ]]></description>
+    <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>steve-yegge</title>
+    <link>https://edgarcutar.github.io/personal-wiki-public/people/steve-yegge</link>
+    <guid>https://edgarcutar.github.io/personal-wiki-public/people/steve-yegge</guid>
+    <description><![CDATA[ Steve Yegge Steve Yegge is the author of The Last Technical Interview. ]]></description>
+    <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>the-last-technical-interview</title>
+    <link>https://edgarcutar.github.io/personal-wiki-public/projects/the-last-technical-interview</link>
+    <guid>https://edgarcutar.github.io/personal-wiki-public/projects/the-last-technical-interview</guid>
+    <description><![CDATA[ The Last Technical Interview [The Last Technical Interview](../../[private source]) is a May 2026 article by Steve Yegge on Steve Yegge on Medium. ]]></description>
+    <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>steve-yegge-medium</title>
+    <link>https://edgarcutar.github.io/personal-wiki-public/sources/steve-yegge-medium</link>
+    <guid>https://edgarcutar.github.io/personal-wiki-public/sources/steve-yegge-medium</guid>
+    <description><![CDATA[ Steve Yegge on Medium Steve Yegge’s Medium publication is currently represented in this wiki by one article about technical interviewing and real-work hiring assessment. ]]></description>
+    <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
   </item><item>
     <title>big-tech-promotion-culture</title>
     <link>https://edgarcutar.github.io/personal-wiki-public/concepts/big-tech-promotion-culture</link>
@@ -28,42 +64,6 @@
     <link>https://edgarcutar.github.io/personal-wiki-public/concepts/database-systems</link>
     <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/database-systems</guid>
     <description><![CDATA[ Database Systems Database systems, in Mike Stonebraker’s Peterman Pod interview, are specialized infrastructure for storing, querying, updating, and protecting application state. ]]></description>
-    <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>developer-tools</title>
-    <link>https://edgarcutar.github.io/personal-wiki-public/concepts/developer-tools</link>
-    <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/developer-tools</guid>
-    <description><![CDATA[ Developer Tools Developer tools, in Michael Bolin’s Peterman Pod episode, are high-leverage engineering systems because they change how quickly and effectively other engineers can build. ]]></description>
-    <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>distributed-systems</title>
-    <link>https://edgarcutar.github.io/personal-wiki-public/concepts/distributed-systems</link>
-    <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/distributed-systems</guid>
-    <description><![CDATA[ Distributed Systems Distributed systems are systems whose correctness and performance depend on communication among multiple machines, processes, or replicas. ]]></description>
-    <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>engineering-career-growth</title>
-    <link>https://edgarcutar.github.io/personal-wiki-public/concepts/engineering-career-growth</link>
-    <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/engineering-career-growth</guid>
-    <description><![CDATA[ Engineering Career Growth Engineering career growth, in the currently ingested Peterman Pod sources, is less about doing more of the same work and more about matching behavior to the next level’s expectations. ]]></description>
-    <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>problem-oriented-engineering-teams</title>
-    <link>https://edgarcutar.github.io/personal-wiki-public/concepts/problem-oriented-engineering-teams</link>
-    <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/problem-oriented-engineering-teams</guid>
-    <description><![CDATA[ Problem-Oriented Engineering Teams Problem-oriented engineering teams define their identity around the user, business, or technical problem they solve, not around the current system, tool, or implementation they operate. ]]></description>
-    <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>james-cowling</title>
-    <link>https://edgarcutar.github.io/personal-wiki-public/people/james-cowling</link>
-    <guid>https://edgarcutar.github.io/personal-wiki-public/people/james-cowling</guid>
-    <description><![CDATA[ James Cowling James Cowling is presented in the May 25, 2026 Peterman Pod episode as CTO at Convex and a former senior principal engineer at Dropbox. ]]></description>
-    <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>ryan-peterman</title>
-    <link>https://edgarcutar.github.io/personal-wiki-public/people/ryan-peterman</link>
-    <guid>https://edgarcutar.github.io/personal-wiki-public/people/ryan-peterman</guid>
-    <description><![CDATA[ Ryan Peterman Ryan Peterman is the host of The Peterman Pod and author of The Developing Dev. ]]></description>
     <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
   </item>
     </channel>
