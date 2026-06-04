@@ -10,61 +10,61 @@
     <link>https://edgarcutar.github.io/personal-wiki-public/</link>
     <guid>https://edgarcutar.github.io/personal-wiki-public/</guid>
     <description><![CDATA[ Edgar’s Personal Wiki Public notebook This is the public edge of a private working wiki: source-backed notes about software, systems, books, institutions, and the moments where fiction explains reality better than reality explains itself. ]]></description>
-    <pubDate>Sun, 31 May 2026 13:51:14 GMT</pubDate>
+    <pubDate>Thu, 04 Jun 2026 19:09:01 GMT</pubDate>
   </item><item>
-    <title>bell-labs-research-culture</title>
-    <link>https://edgarcutar.github.io/personal-wiki-public/concepts/bell-labs-research-culture</link>
-    <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/bell-labs-research-culture</guid>
-    <description><![CDATA[ Bell Labs Research Culture Bell Labs research culture, in Bjarne Stroustrup’s Peterman Pod episode, is a model of practical engineering research built around talent density, autonomy, and concise accountability. ]]></description>
-    <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>big-tech-promotion-culture</title>
-    <link>https://edgarcutar.github.io/personal-wiki-public/concepts/big-tech-promotion-culture</link>
-    <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/big-tech-promotion-culture</guid>
-    <description><![CDATA[ Big-Tech Promotion Culture Big-tech promotion culture, in the currently ingested Peterman Pod sources, is the incentive system that turns career advancement into a distinct game with its own tactics, timing, narratives, and failure modes. ]]></description>
-    <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
+    <title>ai-era-engineering-apprenticeship</title>
+    <link>https://edgarcutar.github.io/personal-wiki-public/concepts/ai-era-engineering-apprenticeship</link>
+    <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/ai-era-engineering-apprenticeship</guid>
+    <description><![CDATA[ AI-Era Engineering Apprenticeship AI-era engineering apprenticeship is the user’s emerging question about how people develop judgment when AI agents absorb more of the small execution work that previously trained juniors and mid-level engineers. ]]></description>
+    <pubDate>Thu, 04 Jun 2026 03:00:00 GMT</pubDate>
   </item><item>
     <title>choosing-what-to-work-on</title>
     <link>https://edgarcutar.github.io/personal-wiki-public/concepts/choosing-what-to-work-on</link>
     <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/choosing-what-to-work-on</guid>
     <description><![CDATA[ Choosing What to Work On Choosing what to work on is the judgment of selecting problems whose importance, evidence, timing, and fit justify sustained attention. ]]></description>
-    <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
+    <pubDate>Thu, 04 Jun 2026 03:00:00 GMT</pubDate>
   </item><item>
     <title>developer-tools</title>
     <link>https://edgarcutar.github.io/personal-wiki-public/concepts/developer-tools</link>
     <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/developer-tools</guid>
     <description><![CDATA[ Developer Tools Developer tools, in Michael Bolin’s Peterman Pod episode, are high-leverage engineering systems because they change how quickly and effectively other engineers can build. ]]></description>
-    <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
+    <pubDate>Thu, 04 Jun 2026 03:00:00 GMT</pubDate>
   </item><item>
     <title>engineering-career-growth</title>
     <link>https://edgarcutar.github.io/personal-wiki-public/concepts/engineering-career-growth</link>
     <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/engineering-career-growth</guid>
     <description><![CDATA[ Engineering Career Growth Engineering career growth, in the currently ingested Peterman Pod sources, is less about doing more of the same work and more about matching behavior to the next level’s expectations. ]]></description>
-    <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
+    <pubDate>Thu, 04 Jun 2026 03:00:00 GMT</pubDate>
   </item><item>
-    <title>postmortem-culture</title>
-    <link>https://edgarcutar.github.io/personal-wiki-public/concepts/postmortem-culture</link>
-    <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/postmortem-culture</guid>
-    <description><![CDATA[ Postmortem Culture Postmortem culture is the practice of treating production incidents as a source of technical, organizational, and product learning rather than only a failure to close. ]]></description>
-    <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
+    <title>recursive-self-improvement</title>
+    <link>https://edgarcutar.github.io/personal-wiki-public/concepts/recursive-self-improvement</link>
+    <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/recursive-self-improvement</guid>
+    <description><![CDATA[ Recursive Self-Improvement Recursive self-improvement is the threshold where an AI system can autonomously design and develop its own successor. ]]></description>
+    <pubDate>Thu, 04 Jun 2026 03:00:00 GMT</pubDate>
   </item><item>
-    <title>problem-oriented-engineering-teams</title>
-    <link>https://edgarcutar.github.io/personal-wiki-public/concepts/problem-oriented-engineering-teams</link>
-    <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/problem-oriented-engineering-teams</guid>
-    <description><![CDATA[ Problem-Oriented Engineering Teams Problem-oriented engineering teams define their identity around the user, business, or technical problem they solve, not around the current system, tool, or implementation they operate. ]]></description>
-    <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
+    <title>when-ai-builds-itself</title>
+    <link>https://edgarcutar.github.io/personal-wiki-public/projects/when-ai-builds-itself</link>
+    <guid>https://edgarcutar.github.io/personal-wiki-public/projects/when-ai-builds-itself</guid>
+    <description><![CDATA[ When AI Builds Itself [When AI Builds Itself](../../[private source]) is an Anthropic Institute article about Recursive Self-Improvement. ]]></description>
+    <pubDate>Thu, 04 Jun 2026 03:00:00 GMT</pubDate>
   </item><item>
-    <title>programming-language-design</title>
-    <link>https://edgarcutar.github.io/personal-wiki-public/concepts/programming-language-design</link>
-    <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/programming-language-design</guid>
-    <description><![CDATA[ Programming Language Design Programming language design, in Bjarne Stroustrup’s Peterman Pod episode, is problem-first engineering under constraints rather than an unconstrained search for elegance. ]]></description>
-    <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
+    <title>anthropic-institute</title>
+    <link>https://edgarcutar.github.io/personal-wiki-public/sources/anthropic-institute</link>
+    <guid>https://edgarcutar.github.io/personal-wiki-public/sources/anthropic-institute</guid>
+    <description><![CDATA[ The Anthropic Institute The Anthropic Institute is currently represented in this wiki by one article about recursive self-improvement and the role of AI systems in accelerating AI development. ]]></description>
+    <pubDate>Thu, 04 Jun 2026 03:00:00 GMT</pubDate>
   </item><item>
-    <title>separable-single-threaded-ownership</title>
-    <link>https://edgarcutar.github.io/personal-wiki-public/concepts/separable-single-threaded-ownership</link>
-    <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/separable-single-threaded-ownership</guid>
-    <description><![CDATA[ Separable Single-Threaded Ownership Separable single-threaded ownership is the Amazon organizational model in Working Backwards where one dedicated leader owns one major initiative and leads a team that is as autonomous as the problem permits. ]]></description>
-    <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
+    <title>bell-labs-research-culture</title>
+    <link>https://edgarcutar.github.io/personal-wiki-public/concepts/bell-labs-research-culture</link>
+    <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/bell-labs-research-culture</guid>
+    <description><![CDATA[ Bell Labs Research Culture Bell Labs research culture, in Bjarne Stroustrup’s Peterman Pod episode, is a model of practical engineering research built around talent density, autonomy, and concise accountability. ]]></description>
+    <pubDate>Sun, 31 May 2026 03:00:00 GMT</pubDate>
+  </item><item>
+    <title>big-tech-promotion-culture</title>
+    <link>https://edgarcutar.github.io/personal-wiki-public/concepts/big-tech-promotion-culture</link>
+    <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/big-tech-promotion-culture</guid>
+    <description><![CDATA[ Big-Tech Promotion Culture Big-tech promotion culture, in the currently ingested Peterman Pod sources, is the incentive system that turns career advancement into a distinct game with its own tactics, timing, narratives, and failure modes. ]]></description>
+    <pubDate>Sun, 31 May 2026 03:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
