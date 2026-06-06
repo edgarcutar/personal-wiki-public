@@ -27,7 +27,10 @@
     <lastmod>2026-05-30T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/choosing-what-to-work-on</loc>
-    <lastmod>2026-06-04T00:00:00.000Z</lastmod>
+    <lastmod>2026-06-06T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/computational-complexity-theory</loc>
+    <lastmod>2026-06-06T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/computer-science-education</loc>
     <lastmod>2026-05-24T00:00:00.000Z</lastmod>
@@ -98,6 +101,9 @@
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/programming-language-design</loc>
     <lastmod>2026-05-31T00:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/quantum-computation</loc>
+    <lastmod>2026-06-06T00:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/quicksilver-commerce-and-money</loc>
     <lastmod>2026-06-04T00:00:00.000Z</lastmod>
   </url><url>
@@ -131,11 +137,17 @@
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/viewstamped-replication</loc>
     <lastmod>2026-04-30T00:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/zero-knowledge-proofs</loc>
+    <lastmod>2026-06-06T00:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/</loc>
-    <lastmod>2026-06-05T00:15:18.322Z</lastmod>
+    <lastmod>2026-06-06T17:57:14.826Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/people/austen-mcdonald</loc>
     <lastmod>2026-05-18T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://edgarcutar.github.io/personal-wiki-public/people/avi-wigderson</loc>
+    <lastmod>2026-06-06T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/people/barbara-liskov</loc>
     <lastmod>2026-05-31T00:00:00.000Z</lastmod>
@@ -219,7 +231,7 @@
     <lastmod>2026-05-26T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/people/ryan-peterman</loc>
-    <lastmod>2026-05-27T00:00:00.000Z</lastmod>
+    <lastmod>2026-06-06T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/people/simon-johnson</loc>
     <lastmod>2026-06-04T00:00:00.000Z</lastmod>
@@ -253,6 +265,9 @@
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/projects/peterman-pod-austen-mcdonald-senior-eng-hiring</loc>
     <lastmod>2026-05-18T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://edgarcutar.github.io/personal-wiki-public/projects/peterman-pod-avi-wigderson-complexity-theory</loc>
+    <lastmod>2026-06-06T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/projects/peterman-pod-barbara-liskov-data-abstraction</loc>
     <lastmod>2026-05-31T00:00:00.000Z</lastmod>
@@ -330,7 +345,7 @@
     <lastmod>2026-05-30T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/sources/the-peterman-pod</loc>
-    <lastmod>2026-05-31T00:00:00.000Z</lastmod>
+    <lastmod>2026-06-06T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/sources/the-pragmatic-engineer</loc>
     <lastmod>2026-05-18T00:00:00.000Z</lastmod>
