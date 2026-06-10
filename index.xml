@@ -10,61 +10,61 @@
     <link>https://edgarcutar.github.io/personal-wiki-public/</link>
     <guid>https://edgarcutar.github.io/personal-wiki-public/</guid>
     <description><![CDATA[ Edgar’s Personal Wiki Public notebook This is the public edge of a private working wiki: source-backed notes about software, systems, books, institutions, and the moments where fiction explains reality better than reality explains itself. ]]></description>
-    <pubDate>Sat, 06 Jun 2026 17:57:14 GMT</pubDate>
+    <pubDate>Wed, 10 Jun 2026 14:42:28 GMT</pubDate>
+  </item><item>
+    <title>ai-commissioning</title>
+    <link>https://edgarcutar.github.io/personal-wiki-public/concepts/ai-commissioning</link>
+    <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/ai-commissioning</guid>
+    <description><![CDATA[ AI Commissioning AI commissioning is the shift from using an AI system as a closely steered assistant to briefing an agentic model on an ambitious outcome, letting it execute through a long and partly hidden workflow, and then judging the delivered artifact. ]]></description>
+    <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>recursive-self-improvement</title>
+    <link>https://edgarcutar.github.io/personal-wiki-public/concepts/recursive-self-improvement</link>
+    <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/recursive-self-improvement</guid>
+    <description><![CDATA[ Recursive Self-Improvement Recursive self-improvement is the threshold where an AI system can autonomously design and develop its own successor. ]]></description>
+    <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>ethan-mollick</title>
+    <link>https://edgarcutar.github.io/personal-wiki-public/people/ethan-mollick</link>
+    <guid>https://edgarcutar.github.io/personal-wiki-public/people/ethan-mollick</guid>
+    <description><![CDATA[ Ethan Mollick Ethan Mollick is the credited author of the One Useful Thing article What it feels like to work with Mythos. ]]></description>
+    <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>what-it-feels-like-to-work-with-mythos</title>
+    <link>https://edgarcutar.github.io/personal-wiki-public/projects/what-it-feels-like-to-work-with-mythos</link>
+    <guid>https://edgarcutar.github.io/personal-wiki-public/projects/what-it-feels-like-to-work-with-mythos</guid>
+    <description><![CDATA[ What It Feels Like To Work With Mythos What it feels like to work with Mythos is a 2026-06-09 One Useful Thing article by Ethan Mollick. ]]></description>
+    <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>one-useful-thing</title>
+    <link>https://edgarcutar.github.io/personal-wiki-public/sources/one-useful-thing</link>
+    <guid>https://edgarcutar.github.io/personal-wiki-public/sources/one-useful-thing</guid>
+    <description><![CDATA[ One Useful Thing One Useful Thing is currently represented in this wiki by Ethan Mollick’s article on working with a Mythos-class AI model. ]]></description>
+    <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>gnss-interference</title>
+    <link>https://edgarcutar.github.io/personal-wiki-public/concepts/gnss-interference</link>
+    <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/gnss-interference</guid>
+    <description><![CDATA[ GNSS Interference GNSS interference disrupts satellite navigation systems such as GPS, GLONASS, Galileo, and BeiDou. ]]></description>
+    <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>veritasium-gps-jamming-over-europe</title>
+    <link>https://edgarcutar.github.io/personal-wiki-public/projects/veritasium-gps-jamming-over-europe</link>
+    <guid>https://edgarcutar.github.io/personal-wiki-public/projects/veritasium-gps-jamming-over-europe</guid>
+    <description><![CDATA[ Veritasium: Something is jamming GPS over Europe This June 5, 2026 Veritasium video explains a GNSS interference investigation that traces short, narrowband bursts over Europe to the Russian Cosmos 2546 satellite while preserving uncertainty about whether the signal was a jamming test, covert commun... ]]></description>
+    <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>veritasium</title>
+    <link>https://edgarcutar.github.io/personal-wiki-public/sources/veritasium</link>
+    <guid>https://edgarcutar.github.io/personal-wiki-public/sources/veritasium</guid>
+    <description><![CDATA[ Veritasium Veritasium is currently represented in this wiki by three technical explainer videos: one on the Aharonov-Bohm effect, one on shortest-path algorithms for map routing, and one on GNSS interference and satellite-navigation resilience. ]]></description>
+    <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
   </item><item>
     <title>choosing-what-to-work-on</title>
     <link>https://edgarcutar.github.io/personal-wiki-public/concepts/choosing-what-to-work-on</link>
     <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/choosing-what-to-work-on</guid>
     <description><![CDATA[ Choosing What to Work On Choosing what to work on is the judgment of selecting problems whose importance, evidence, timing, and fit justify sustained attention. ]]></description>
     <pubDate>Sat, 06 Jun 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>computational-complexity-theory</title>
-    <link>https://edgarcutar.github.io/personal-wiki-public/concepts/computational-complexity-theory</link>
-    <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/computational-complexity-theory</guid>
-    <description><![CDATA[ Computational Complexity Theory Computational complexity theory studies what resources are needed to solve, verify, approximate, or simulate computational problems. ]]></description>
-    <pubDate>Sat, 06 Jun 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>quantum-computation</title>
-    <link>https://edgarcutar.github.io/personal-wiki-public/concepts/quantum-computation</link>
-    <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/quantum-computation</guid>
-    <description><![CDATA[ Quantum Computation Quantum computation is a model of computation that allows algorithms to use quantum-mechanical operations such as superposition, interference, unitary evolution, and measurement. ]]></description>
-    <pubDate>Sat, 06 Jun 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>zero-knowledge-proofs</title>
-    <link>https://edgarcutar.github.io/personal-wiki-public/concepts/zero-knowledge-proofs</link>
-    <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/zero-knowledge-proofs</guid>
-    <description><![CDATA[ Zero-Knowledge Proofs Zero-knowledge proofs are interactive proofs where a prover convinces a verifier that a claim is true without revealing the underlying proof, witness, or secret beyond the truth of the claim. ]]></description>
-    <pubDate>Sat, 06 Jun 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>avi-wigderson</title>
-    <link>https://edgarcutar.github.io/personal-wiki-public/people/avi-wigderson</link>
-    <guid>https://edgarcutar.github.io/personal-wiki-public/people/avi-wigderson</guid>
-    <description><![CDATA[ Avi Wigderson Avi Wigderson is presented in the June 1, 2026 Peterman Pod episode as a theoretical computer scientist whose work spans computational complexity theory, randomness, zero-knowledge proofs, and quantum computation. ]]></description>
-    <pubDate>Sat, 06 Jun 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>ryan-peterman</title>
-    <link>https://edgarcutar.github.io/personal-wiki-public/people/ryan-peterman</link>
-    <guid>https://edgarcutar.github.io/personal-wiki-public/people/ryan-peterman</guid>
-    <description><![CDATA[ Ryan Peterman Ryan Peterman is the host of The Peterman Pod and author of The Developing Dev. ]]></description>
-    <pubDate>Sat, 06 Jun 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>peterman-pod-avi-wigderson-complexity-theory</title>
-    <link>https://edgarcutar.github.io/personal-wiki-public/projects/peterman-pod-avi-wigderson-complexity-theory</link>
-    <guid>https://edgarcutar.github.io/personal-wiki-public/projects/peterman-pod-avi-wigderson-complexity-theory</guid>
-    <description><![CDATA[ Peterman Pod: Avi Wigderson on P vs NP, Zero-Knowledge, and Quantum Computation This June 1, 2026 episode of The Peterman Pod features Avi Wigderson, a theoretical computer scientist discussing computational complexity theory, randomness, zero-knowledge proofs, and quantum computation. ]]></description>
-    <pubDate>Sat, 06 Jun 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>the-peterman-pod</title>
-    <link>https://edgarcutar.github.io/personal-wiki-public/sources/the-peterman-pod</link>
-    <guid>https://edgarcutar.github.io/personal-wiki-public/sources/the-peterman-pod</guid>
-    <description><![CDATA[ The Peterman Pod The Peterman Pod is a podcast hosted by Ryan Peterman. ]]></description>
-    <pubDate>Sat, 06 Jun 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>agentic-self-service-analytics</title>
-    <link>https://edgarcutar.github.io/personal-wiki-public/concepts/agentic-self-service-analytics</link>
-    <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/agentic-self-service-analytics</guid>
-    <description><![CDATA[ Agentic Self-Service Analytics Agentic self-service analytics is the use of AI agents to answer business analytics questions directly for stakeholders while preserving the source-of-truth discipline that data teams normally provide. ]]></description>
-    <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>

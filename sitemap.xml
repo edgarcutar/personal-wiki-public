@@ -5,6 +5,9 @@
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/aharonov-bohm-effect</loc>
     <lastmod>2026-06-04T00:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/ai-commissioning</loc>
+    <lastmod>2026-06-10T00:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/ai-era-engineering-apprenticeship</loc>
     <lastmod>2026-06-04T00:00:00.000Z</lastmod>
   </url><url>
@@ -62,6 +65,9 @@
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/engineering-career-growth</loc>
     <lastmod>2026-06-04T00:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/gnss-interference</loc>
+    <lastmod>2026-06-07T00:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/jack-shaftoes-paris-hallucination</loc>
     <lastmod>2026-06-04T00:00:00.000Z</lastmod>
   </url><url>
@@ -108,7 +114,7 @@
     <lastmod>2026-06-04T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/recursive-self-improvement</loc>
-    <lastmod>2026-06-04T00:00:00.000Z</lastmod>
+    <lastmod>2026-06-10T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/senior-engineer-hiring</loc>
     <lastmod>2026-05-30T00:00:00.000Z</lastmod>
@@ -141,7 +147,7 @@
     <lastmod>2026-06-06T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/</loc>
-    <lastmod>2026-06-06T17:57:14.826Z</lastmod>
+    <lastmod>2026-06-10T14:42:28.621Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/people/austen-mcdonald</loc>
     <lastmod>2026-05-18T00:00:00.000Z</lastmod>
@@ -187,6 +193,9 @@
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/people/ethan-evans</loc>
     <lastmod>2026-04-30T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://edgarcutar.github.io/personal-wiki-public/people/ethan-mollick</loc>
+    <lastmod>2026-06-10T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/people/gergely-orosz</loc>
     <lastmod>2026-05-18T00:00:00.000Z</lastmod>
@@ -320,8 +329,14 @@
     <loc>https://edgarcutar.github.io/personal-wiki-public/projects/veritasium-google-maps-unreasonably-fast</loc>
     <lastmod>2026-06-04T00:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://edgarcutar.github.io/personal-wiki-public/projects/veritasium-gps-jamming-over-europe</loc>
+    <lastmod>2026-06-07T00:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/projects/veritasium-tiny-donut-magnetism</loc>
     <lastmod>2026-06-04T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://edgarcutar.github.io/personal-wiki-public/projects/what-it-feels-like-to-work-with-mythos</loc>
+    <lastmod>2026-06-10T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/projects/when-ai-builds-itself</loc>
     <lastmod>2026-06-04T00:00:00.000Z</lastmod>
@@ -338,6 +353,9 @@
     <loc>https://edgarcutar.github.io/personal-wiki-public/sources/claude-blog</loc>
     <lastmod>2026-06-04T00:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://edgarcutar.github.io/personal-wiki-public/sources/one-useful-thing</loc>
+    <lastmod>2026-06-10T00:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/sources/power-and-progress</loc>
     <lastmod>2026-06-04T00:00:00.000Z</lastmod>
   </url><url>
@@ -351,7 +369,7 @@
     <lastmod>2026-05-18T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/sources/veritasium</loc>
-    <lastmod>2026-06-04T00:00:00.000Z</lastmod>
+    <lastmod>2026-06-07T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/sources/working-backwards</loc>
     <lastmod>2026-05-26T00:00:00.000Z</lastmod>
