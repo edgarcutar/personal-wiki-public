@@ -10,12 +10,24 @@
     <link>https://edgarcutar.github.io/personal-wiki-public/</link>
     <guid>https://edgarcutar.github.io/personal-wiki-public/</guid>
     <description><![CDATA[ Edgar’s Personal Wiki Public notebook This is the public edge of a private working wiki: source-backed notes about software, systems, books, institutions, and the moments where fiction explains reality better than reality explains itself. ]]></description>
-    <pubDate>Wed, 10 Jun 2026 14:42:28 GMT</pubDate>
+    <pubDate>Thu, 11 Jun 2026 02:06:27 GMT</pubDate>
   </item><item>
     <title>ai-commissioning</title>
     <link>https://edgarcutar.github.io/personal-wiki-public/concepts/ai-commissioning</link>
     <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/ai-commissioning</guid>
     <description><![CDATA[ AI Commissioning AI commissioning is the shift from using an AI system as a closely steered assistant to briefing an agentic model on an ambitious outcome, letting it execute through a long and partly hidden workflow, and then judging the delivered artifact. ]]></description>
+    <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>ai-era-engineering-apprenticeship</title>
+    <link>https://edgarcutar.github.io/personal-wiki-public/concepts/ai-era-engineering-apprenticeship</link>
+    <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/ai-era-engineering-apprenticeship</guid>
+    <description><![CDATA[ AI-Era Engineering Apprenticeship AI-era engineering apprenticeship is the user’s emerging question about how people develop judgment when AI agents absorb more of the small execution work that previously trained juniors and mid-level engineers. ]]></description>
+    <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>machine-usefulness</title>
+    <link>https://edgarcutar.github.io/personal-wiki-public/concepts/machine-usefulness</link>
+    <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/machine-usefulness</guid>
+    <description><![CDATA[ Machine Usefulness Machine usefulness is Power and Progress’s alternative to the machine-intelligence frame. ]]></description>
     <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
   </item><item>
     <title>recursive-self-improvement</title>
@@ -24,47 +36,35 @@
     <description><![CDATA[ Recursive Self-Improvement Recursive self-improvement is the threshold where an AI system can autonomously design and develop its own successor. ]]></description>
     <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
   </item><item>
+    <title>technology-and-worker-power</title>
+    <link>https://edgarcutar.github.io/personal-wiki-public/concepts/technology-and-worker-power</link>
+    <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/technology-and-worker-power</guid>
+    <description><![CDATA[ Technology and Worker Power Technology and worker power is the core institutional thesis from Power and Progress: productivity growth becomes shared prosperity only when workers have enough bargaining, political, and social power to shape technology’s direction and claim part of its gains. ]]></description>
+    <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>dario-amodei</title>
+    <link>https://edgarcutar.github.io/personal-wiki-public/people/dario-amodei</link>
+    <guid>https://edgarcutar.github.io/personal-wiki-public/people/dario-amodei</guid>
+    <description><![CDATA[ Dario Amodei Dario Amodei enters the wiki through Policy on the AI Exponential, a June 2026 essay on AI policy, safety regulation, labor displacement, scientific acceleration, civil liberties, and geopolitics. ]]></description>
+    <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+  </item><item>
     <title>ethan-mollick</title>
     <link>https://edgarcutar.github.io/personal-wiki-public/people/ethan-mollick</link>
     <guid>https://edgarcutar.github.io/personal-wiki-public/people/ethan-mollick</guid>
     <description><![CDATA[ Ethan Mollick Ethan Mollick is the credited author of the One Useful Thing article What it feels like to work with Mythos. ]]></description>
     <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
   </item><item>
-    <title>what-it-feels-like-to-work-with-mythos</title>
-    <link>https://edgarcutar.github.io/personal-wiki-public/projects/what-it-feels-like-to-work-with-mythos</link>
-    <guid>https://edgarcutar.github.io/personal-wiki-public/projects/what-it-feels-like-to-work-with-mythos</guid>
-    <description><![CDATA[ What It Feels Like To Work With Mythos What it feels like to work with Mythos is a 2026-06-09 One Useful Thing article by Ethan Mollick. ]]></description>
+    <title>democratic-power-and-geopolitics</title>
+    <link>https://edgarcutar.github.io/personal-wiki-public/post-ai-world/democratic-power-and-geopolitics</link>
+    <guid>https://edgarcutar.github.io/personal-wiki-public/post-ai-world/democratic-power-and-geopolitics</guid>
+    <description><![CDATA[ Democratic Power and Geopolitics Democratic power and geopolitics is the post-AI question of whether advanced AI strengthens accountable democracies or concentrates power in states, companies, and autocracies. ]]></description>
     <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
   </item><item>
-    <title>one-useful-thing</title>
-    <link>https://edgarcutar.github.io/personal-wiki-public/sources/one-useful-thing</link>
-    <guid>https://edgarcutar.github.io/personal-wiki-public/sources/one-useful-thing</guid>
-    <description><![CDATA[ One Useful Thing One Useful Thing is currently represented in this wiki by Ethan Mollick’s article on working with a Mythos-class AI model. ]]></description>
+    <title>index</title>
+    <link>https://edgarcutar.github.io/personal-wiki-public/post-ai-world/</link>
+    <guid>https://edgarcutar.github.io/personal-wiki-public/post-ai-world/</guid>
+    <description><![CDATA[ Post-AI World Post-AI world is this wiki’s working section for the social, institutional, and personal consequences of advanced AI becoming a central economic and political force. ]]></description>
     <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>gnss-interference</title>
-    <link>https://edgarcutar.github.io/personal-wiki-public/concepts/gnss-interference</link>
-    <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/gnss-interference</guid>
-    <description><![CDATA[ GNSS Interference GNSS interference disrupts satellite navigation systems such as GPS, GLONASS, Galileo, and BeiDou. ]]></description>
-    <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>veritasium-gps-jamming-over-europe</title>
-    <link>https://edgarcutar.github.io/personal-wiki-public/projects/veritasium-gps-jamming-over-europe</link>
-    <guid>https://edgarcutar.github.io/personal-wiki-public/projects/veritasium-gps-jamming-over-europe</guid>
-    <description><![CDATA[ Veritasium: Something is jamming GPS over Europe This June 5, 2026 Veritasium video explains a GNSS interference investigation that traces short, narrowband bursts over Europe to the Russian Cosmos 2546 satellite while preserving uncertainty about whether the signal was a jamming test, covert commun... ]]></description>
-    <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>veritasium</title>
-    <link>https://edgarcutar.github.io/personal-wiki-public/sources/veritasium</link>
-    <guid>https://edgarcutar.github.io/personal-wiki-public/sources/veritasium</guid>
-    <description><![CDATA[ Veritasium Veritasium is currently represented in this wiki by three technical explainer videos: one on the Aharonov-Bohm effect, one on shortest-path algorithms for map routing, and one on GNSS interference and satellite-navigation resilience. ]]></description>
-    <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>choosing-what-to-work-on</title>
-    <link>https://edgarcutar.github.io/personal-wiki-public/concepts/choosing-what-to-work-on</link>
-    <guid>https://edgarcutar.github.io/personal-wiki-public/concepts/choosing-what-to-work-on</guid>
-    <description><![CDATA[ Choosing What to Work On Choosing what to work on is the judgment of selecting problems whose importance, evidence, timing, and fit justify sustained attention. ]]></description>
-    <pubDate>Sat, 06 Jun 2026 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
