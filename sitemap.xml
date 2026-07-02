@@ -12,7 +12,7 @@
     <lastmod>2026-06-10T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/ai-era-engineering-apprenticeship</loc>
-    <lastmod>2026-06-16T00:00:00.000Z</lastmod>
+    <lastmod>2026-07-02T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/athena-ares-metis</loc>
     <lastmod>2026-05-26T00:00:00.000Z</lastmod>
@@ -33,7 +33,7 @@
     <lastmod>2026-05-30T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/choosing-what-to-work-on</loc>
-    <lastmod>2026-06-06T00:00:00.000Z</lastmod>
+    <lastmod>2026-07-02T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/cipher-and-intelligence-in-quicksilver</loc>
     <lastmod>2026-06-23T00:00:00.000Z</lastmod>
@@ -66,16 +66,19 @@
     <lastmod>2026-05-24T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/developer-tools</loc>
-    <lastmod>2026-06-20T00:00:00.000Z</lastmod>
+    <lastmod>2026-07-02T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/distributed-systems</loc>
-    <lastmod>2026-05-27T00:00:00.000Z</lastmod>
+    <lastmod>2026-07-02T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/eliza-commercial-intelligence</loc>
     <lastmod>2026-06-23T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/engineering-career-growth</loc>
-    <lastmod>2026-06-04T00:00:00.000Z</lastmod>
+    <lastmod>2026-07-02T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/frontier-ai-lab-career-skills</loc>
+    <lastmod>2026-07-02T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/frontier-ai-sovereignty</loc>
     <lastmod>2026-06-15T00:00:00.000Z</lastmod>
@@ -123,7 +126,7 @@
     <lastmod>2026-05-31T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/programming-language-design</loc>
-    <lastmod>2026-05-31T00:00:00.000Z</lastmod>
+    <lastmod>2026-07-02T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/concepts/quantum-computation</loc>
     <lastmod>2026-06-06T00:00:00.000Z</lastmod>
@@ -168,7 +171,7 @@
     <lastmod>2026-06-06T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/</loc>
-    <lastmod>2026-06-24T00:17:07.819Z</lastmod>
+    <lastmod>2026-07-02T12:53:49.894Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/people/andrew-curran</loc>
     <lastmod>2026-06-15T00:00:00.000Z</lastmod>
@@ -193,6 +196,9 @@
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/people/bryan-cantrill</loc>
     <lastmod>2026-05-31T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://edgarcutar.github.io/personal-wiki-public/people/charlie-marsh</loc>
+    <lastmod>2026-07-02T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/people/colin-bryar</loc>
     <lastmod>2026-05-26T00:00:00.000Z</lastmod>
@@ -276,7 +282,7 @@
     <lastmod>2026-05-26T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/people/ryan-peterman</loc>
-    <lastmod>2026-06-06T00:00:00.000Z</lastmod>
+    <lastmod>2026-07-02T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/people/satya-nadella</loc>
     <lastmod>2026-06-14T00:00:00.000Z</lastmod>
@@ -289,6 +295,9 @@
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/people/tom-di-mino</loc>
     <lastmod>2026-06-20T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://edgarcutar.github.io/personal-wiki-public/people/vlad-feinberg</loc>
+    <lastmod>2026-07-02T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/post-ai-world/democratic-power-and-geopolitics</loc>
     <lastmod>2026-06-10T00:00:00.000Z</lastmod>
@@ -356,6 +365,9 @@
     <loc>https://edgarcutar.github.io/personal-wiki-public/projects/peterman-pod-bryan-cantrill-stack-ranking</loc>
     <lastmod>2026-05-31T00:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://edgarcutar.github.io/personal-wiki-public/projects/peterman-pod-charlie-marsh-software-engineering-changing</loc>
+    <lastmod>2026-07-02T00:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/projects/peterman-pod-david-malan-cs50</loc>
     <lastmod>2026-05-18T00:00:00.000Z</lastmod>
   </url><url>
@@ -376,6 +388,9 @@
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/projects/peterman-pod-mike-stonebraker-postgres</loc>
     <lastmod>2026-05-31T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://edgarcutar.github.io/personal-wiki-public/projects/peterman-pod-vlad-feinberg-frontier-lab-jobs</loc>
+    <lastmod>2026-07-02T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/projects/policy-on-the-ai-exponential</loc>
     <lastmod>2026-06-10T00:00:00.000Z</lastmod>
@@ -456,7 +471,7 @@
     <lastmod>2026-05-30T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/sources/the-peterman-pod</loc>
-    <lastmod>2026-06-06T00:00:00.000Z</lastmod>
+    <lastmod>2026-07-02T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://edgarcutar.github.io/personal-wiki-public/sources/the-pragmatic-engineer</loc>
     <lastmod>2026-06-16T00:00:00.000Z</lastmod>
